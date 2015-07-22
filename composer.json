@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "silex/silex": "~1.3",
+        "oliverlorenz/php-mqtt-client": "0.3.*"
+    }
+}
