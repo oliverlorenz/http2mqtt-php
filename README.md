@@ -3,6 +3,8 @@
 http2mqtt is a simple http to mqtt bridge to publish HTTP Post Requests to a MQTT Broker.
 
 usage to start the server via internal php server
+>  sudo apt-get install mosquitto-clients
+>
 >  git clone git@github.com:oliverlorenz/http2mqtt.git
 >
 >  cd http2mqtt
